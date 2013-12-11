@@ -1,0 +1,231 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"te",
+				"text-top"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"fff",
+				"ffffff"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 203.0,
+		"selected_items":
+		[
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 127.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/josiahwiebe/Developer/newcoopathome/_layouts/grid.html",
+		"/Users/josiahwiebe/Developer/newcoopathome/blog/default.html",
+		"/Users/josiahwiebe/Developer/newcoopathome/_includes/styles.html",
+		"/Users/josiahwiebe/Developer/newcoopathome/_includes/scripts.html",
+		"/Users/josiahwiebe/Developer/newcoopathome/products/default.html",
+		"/Users/josiahwiebe/Developer/newcoopathome/_includes/header.html",
+		"/Users/josiahwiebe/Developer/newcoopathome/_layouts/from default.txt",
+		"/Users/josiahwiebe/Developer/newcoopathome/_layouts/default.html",
+		"/Users/josiahwiebe/Developer/newcoopathome/default.html",
+		"/Users/josiahwiebe/Developer/newcoopathome/css/bootstrap.min.css",
+		"/Users/josiahwiebe/Developer/newcoopathome/css/default.css",
+		"/Users/josiahwiebe/Developer/newcoopathome/css/style.css",
+		"/Users/josiahwiebe/Developer/newcoopathome/css/bootstrap-responsive.css",
+		"/Users/josiahwiebe/Developer/newcoopathome/_includes/slideshow.html",
+		"/Users/josiahwiebe/Developer/newcoopathome/_layouts/blog.html",
+		"/Users/josiahwiebe/Developer/newcoopathome/_includes/menu.html",
+		"/Users/josiahwiebe/Developer/newcoopathome/newcoopathome.sublime-project",
+		"/Users/josiahwiebe/Library/Caches/Cleanup At Startup/Transmit/05633AF3-22D9-4E3F-9988-935C89E951BD/index.html",
+		"/Users/josiahwiebe/Library/Caches/Cleanup At Startup/Transmit/59C96CA9-12A1-4D0A-9387-89C053CF3D78/index.html",
+		"/Users/josiahwiebe/Library/Caches/Cleanup At Startup/Transmit/65F1DFA5-3553-40C6-91B9-CE44834F04A2/index.html",
+		"/Users/josiahwiebe/Library/Caches/Cleanup At Startup/Transmit/464ED2AB-5E8B-4427-AB79-DBA3A3B34F2C/vaer.ca",
+		"/Users/josiahwiebe/Library/Caches/Cleanup At Startup/Transmit/5FCBB509-A953-4FDE-8117-6CA66D0B95AF/php.ini",
+		"/Users/josiahwiebe/Library/Caches/Cleanup At Startup/Transmit/5D2D88FC-D643-4945-8CFF-82450A67CCFC/cafe.html",
+		"/Users/josiahwiebe/Library/Caches/Cleanup At Startup/Transmit/4CDF8E13-CC36-48F5-9A90-BC6585D90785/index.html",
+		"/Users/josiahwiebe/Library/Caches/Cleanup At Startup/Transmit/9BD64BE5-048F-4033-97EA-647E395AA27D/index.html",
+		"/Users/josiahwiebe/Library/Caches/Cleanup At Startup/Transmit/F52AD97E-F9C6-4080-8EB2-771B487F7FF8/index.html",
+		"/Users/josiahwiebe/Documents/Sites/Coop @ Home/specials.html",
+		"/Users/josiahwiebe/Documents/Sites/Coop @ Home/sitemap.html",
+		"/Users/josiahwiebe/Documents/Sites/Coop @ Home/sdnet.html",
+		"/Users/josiahwiebe/Documents/Sites/Coop @ Home/returns.html",
+		"/Users/josiahwiebe/Documents/Sites/Coop @ Home/repair.html",
+		"/Users/josiahwiebe/Documents/Sites/Coop @ Home/photography.html",
+		"/Users/josiahwiebe/Documents/Sites/Coop @ Home/page-404.html",
+		"/Users/josiahwiebe/Documents/Sites/Coop @ Home/living.html",
+		"/Users/josiahwiebe/Documents/Sites/Coop @ Home/index.html",
+		"/Users/josiahwiebe/Documents/Sites/Coop @ Home/ehf.html",
+		"/Users/josiahwiebe/Documents/Sites/Coop @ Home/design.html",
+		"/Users/josiahwiebe/Documents/Sites/Coop @ Home/delivery.html",
+		"/Users/josiahwiebe/Documents/Sites/Coop @ Home/contact.html",
+		"/Users/josiahwiebe/Documents/Sites/Coop @ Home/consult.html",
+		"/Users/josiahwiebe/Documents/Sites/Coop @ Home/computers.html",
+		"/Users/josiahwiebe/Documents/Sites/Coop @ Home/bkp-base.html",
+		"/Users/josiahwiebe/Documents/Sites/Coop @ Home/av.html",
+		"/Users/josiahwiebe/Documents/Sites/Coop @ Home/appliances.html",
+		"/Users/josiahwiebe/Documents/Sites/Coop @ Home/about.html",
+		"/Users/josiahwiebe/Documents/Sites/Coop @ Home/under-construction.html",
+		"/Users/josiahwiebe/Library/Caches/Cleanup At Startup/Transmit/62278683-810A-401C-AA77-E3903E56523D/index.html",
+		"/Users/josiahwiebe/Library/Caches/Cleanup At Startup/Transmit/5C865AD3-58E5-4BF3-9E89-20CECC85B2A1/index.html",
+		"/Users/josiahwiebe/Documents/Sites/Backwoods/Backwoods Restoration/_site/index.html",
+		"/Users/josiahwiebe/Documents/Sites/Backwoods/Backwoods Restoration/www.youxithemes.com/live_previews/www.youxithemes.com/live_previews/bzstudio/index.html",
+		"/Users/josiahwiebe/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/private/var/folders/m5/t42_g5k941z0ybr_vm6qhd800000gn/T/eb4b66e6-4f00-4032-aee2-4136585f2959/Coopathome/about.html",
+		"/private/var/folders/m5/t42_g5k941z0ybr_vm6qhd800000gn/T/eb4b66e6-4f00-4032-aee2-4136585f2959/Coopathome/sdnet.html",
+		"/private/var/folders/m5/t42_g5k941z0ybr_vm6qhd800000gn/T/eb4b66e6-4f00-4032-aee2-4136585f2959/Coopathome/index.html",
+		"/private/var/folders/m5/t42_g5k941z0ybr_vm6qhd800000gn/T/eb4b66e6-4f00-4032-aee2-4136585f2959/Coopathome/js/random.js",
+		"/private/var/folders/m5/t42_g5k941z0ybr_vm6qhd800000gn/T/eb4b66e6-4f00-4032-aee2-4136585f2959/Coopathome/js/random2.js",
+		"/private/var/folders/m5/t42_g5k941z0ybr_vm6qhd800000gn/T/eb4b66e6-4f00-4032-aee2-4136585f2959/Coopathome/js/jquery.flexslider.min.js",
+		"/private/var/folders/m5/t42_g5k941z0ybr_vm6qhd800000gn/T/eb4b66e6-4f00-4032-aee2-4136585f2959/Coopathome/css/style.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pills",
+			"<script type=\"text/javascript\" src=\"js/jquery.nicescroll.min.js\"></script>",
+			"recogn",
+			"sdnet.html",
+			"jpg",
+			"      <",
+			"\n                    <h5>+ tax</h5>\n                    <h6>$300 Install</h6>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true
+}
